@@ -22,7 +22,7 @@ This task is part of the **CodSoft Artificial Intelligence Internship**.
 - *(Add Streamlit/Flask here if a web interface was built)*
 
 ## 🚀 Live Demo
-🔗 [Movie Recommendation System](https://asthakumari-max.github.io/CodSoft-Internship-Artificial-Intelligence/Task-3-MovieRecommendation/index.html)
+🔗 [Movie Recommendation System](https://asthakumari-max.github.io/CodSoft-Internship-Artificial-Intelligence/Task-3-Movie-Recommendation-System/recommendationsystem.html)
 
 ## ▶️ How to Run Locally
 1. Clone this repository
