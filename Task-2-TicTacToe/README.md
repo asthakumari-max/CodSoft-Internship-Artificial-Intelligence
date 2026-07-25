@@ -1,13 +1,13 @@
 # Task 2 - Tic-Tac-Toe AI 🎮
 
 ## 📌 Overview
-An unbeatable Tic-Tac-Toe AI agent built using the **Minimax Algorithm** with optional Alpha-Beta Pruning for optimization. The AI evaluates all possible future moves to always play the optimal move, making it impossible to defeat — the best a human player can achieve is a draw.
+An unbeatable Tic-Tac-Toe AI agent built using the **Minimax Algorithm**. The AI evaluates all possible future moves to always play the optimal move, making it impossible to defeat — the best a human player can achieve is a draw.
 
 This task is part of the **CodSoft Artificial Intelligence Internship**.
 
 ## 🧠 Concept Used
 - **Minimax Algorithm**: A recursive decision-making algorithm used in two-player turn-based games to minimize the possible loss for the worst-case scenario.
-- **Alpha-Beta Pruning** *(if implemented)*: Optimizes Minimax by eliminating branches that won't affect the final decision, improving performance.
+- **Alpha-Beta Pruning** *(if implemented)*: Optimizes Minimax by eliminating branches that won't affect the final decision, improving performance and reducing computation time.
 
 ## ⚙️ How It Works
 1. The game board is represented as a 3x3 grid.
@@ -37,10 +37,11 @@ This task is part of the **CodSoft Artificial Intelligence Internship**.
 - Restart/reset option
 
 ## 📸 Screenshot
-*(Add a screenshot of your game board here after upload)*
+*(Add a screenshot of the game board here after upload)*
 
-## 📬 Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/astha-kumari-083327406) for feedback or collaboration.
+## 👩‍💻 Author
+**Astha Kumari**
+🔗 [LinkedIn](https://www.linkedin.com/in/astha-kumari-083327406) | [GitHub](https://github.com/asthakumari-max)
 
 ---
 ⭐ Part of the CodSoft AI Internship Task Series
