@@ -4,7 +4,7 @@
 This repository contains the tasks completed as part of the **CodSoft AI Internship Program**. Each task demonstrates a core AI concept implemented independently, with clean code and clear documentation.
 
 ## 👨‍💻 Intern Details
-- **Name:** Anshu Kumar
+- **Name:** Astha Kumari
 - **Program:** CodSoft AI Internship
 - **Domain:** Artificial Intelligence
 - **GitHub:** [asthakumari-max](https://github.com/asthakumari-max)
